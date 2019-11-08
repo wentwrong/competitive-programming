@@ -1,4 +1,5 @@
 // http://acm.timus.ru/problem.aspx?num=1588
+// 1588. Jamaica
 #include <bits/stdc++.h>
 
 using namespace std;
