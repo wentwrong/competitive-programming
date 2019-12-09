@@ -11,11 +11,11 @@ My solutions to problems seemed a bit tricky for me from different Online Judges
 
 ## <a id="graphs"></a>Graph theory
 
-- [Timus 1671. Anansi's Cobweb](./graphs/timus_1671.cpp) - *Disjoint-Set/Union-find data structure*
+- [Timus 1671. Anansi's Cobweb](./graph/timus_1671.cpp) - *Disjoint-Set/Union-find data structure*
 
 ## <a id="geom"></a>Computational geometry
 
-- [Timus 1588. Jamaica](.geometry/timus_1588.cpp) - *Straight line equation*
+- [Timus 1588. Jamaica](./geometry/timus_1588.cpp) - *Straight line equation*
 - [Timus 1159. Fence](./geometry/timus_1159.cpp) - *Bisection, Polygon area, Circumscribed circle*
 
 ## <a id="dp"></a>Dynamic programming
